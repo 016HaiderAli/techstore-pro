@@ -1,16 +1,37 @@
-# React + Vite
+# 🛒 TechStore Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce web application built with React.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming soon...
 
-## React Compiler
+## 📸 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Browse products from a live API
+- Search and filter products
+- Product detail pages
+- Add to Cart with quantity tracking
+- Wishlist with heart toggle
+- Categories page
+- Login & Register with form validation
+- Contact page
+- Responsive design
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router DOM
+- Vite
+- FakeStore API
+
+## 📦 Run Locally
+
+git clone https://github.com/YOUR_USERNAME/techstore-pro.git
+cd techstore-pro
+npm install
+npm run dev
+
+## 👨‍💻 Author
+
+Haider Ali
