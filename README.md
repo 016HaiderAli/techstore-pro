@@ -4,7 +4,9 @@ A modern e-commerce web application built with React.
 
 ## 🚀 Live Demo
 
-Coming soon...
+git add .
+git commit -m "Added live demo link"
+git push
 
 ## 📸 Features
 
