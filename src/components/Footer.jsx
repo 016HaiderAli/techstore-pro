@@ -29,9 +29,9 @@ function Footer() {
 
           <div className="footer-links">
             <h4>Contact</h4>
-            <p>📧 support@techstore.com</p>
-            <p>📞 +1 (800) 123-4567</p>
-            <p>📍 123 Tech Street, Silicon Valley</p>
+            <p>📧 haiderali_Zaidi@outlook.com</p>
+            <p>📞 (+92) 336-3529384</p>
+            <p>📍 Munir Bridge View Apartment, Gulistan-e-Johar Block #18, Karachi</p>
           </div>
 
         </div>
